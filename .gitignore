@@ -161,3 +161,8 @@ cython_debug/
 
 # anything downloaded by astro-ghost
 transients_*
+
+# directories with large files
+mosfit/ 
+ipac/
+ecle-data/
