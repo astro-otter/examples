@@ -166,3 +166,5 @@ transients_*
 mosfit/ 
 ipac/
 ecle-data/
+private-data/
+.virtual_documents
